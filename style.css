@@ -1,0 +1,16 @@
+*{
+    margin: 6px;
+    padding: 0px;
+    box-sizing:border-box ;
+    font-family: "pping", sans-serif;
+}
+
+header{
+    background-color: rgb(87, 156, 202);
+   padding: 15px;
+   border-radius: 500px; 
+   
+}
+body{
+    background-color: rgb(4, 124, 209);
+}

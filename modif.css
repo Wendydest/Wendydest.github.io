@@ -1,0 +1,58 @@
+*{
+    margin: 3px;
+    padding: 0px;
+    box-sizing:border-box ;
+    font-family: "pping", sans-serif;
+}
+
+header{
+    /*background-color: blue;*/
+   padding: 15px;
+    border-radius: 400px; 
+    background-image: url(m.jpg);
+
+
+}
+
+header a{
+    margin: 40px;
+    color:white;
+}
+h1{
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+   
+}
+h2{
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(50, 13, 121);
+    border-radius: 40px;px
+   
+
+
+}
+
+img{
+    width: 1000px;
+    height: 500;
+
+}
+
+body{
+    font-size: 20px;
+    background-color:rgb(11, 130, 146);
+   
+    color: rgb(10, 8, 8);
+}
+text{
+    background-image:linear-gradient( blue);
+    
+
+
+
+}
